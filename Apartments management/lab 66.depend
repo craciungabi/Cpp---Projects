@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1586264238 source:d:\programare\cpp\lab 66\app.cpp
+	<iostream>
+	"Cheltuiala.h"
+	"Repository.h"
+	"TestRepository.h"
+	"TestService.h"
+	"UI.h"
+
+1586264056 d:\programare\cpp\lab 66\cheltuiala.h
+	<iostream>
+
+1586264238 d:\programare\cpp\lab 66\repository.h
+	"Cheltuiala.h"
+	<vector>
+
+1586264164 d:\programare\cpp\lab 66\testrepository.h
+	"Repository.h"
+
+1586264186 d:\programare\cpp\lab 66\testservice.h
+	"Service.h"
+
+1586264238 d:\programare\cpp\lab 66\service.h
+	"Repository.h"
+	"Cheltuiala.h"
+	<vector>
+
+1586264238 d:\programare\cpp\lab 66\ui.h
+	"Service.h"
+
